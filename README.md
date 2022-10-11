@@ -40,16 +40,20 @@
   <a href="https://www.linkedin.com/in/karen-cabrera-anyelen/">
     <img align="left" alt="Karen Cabrera | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
     <h6>https://www.linkedin.com/in/karen-cabrera-anyelen/<h6/>
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/KareeenCabrera">
-    <img align="left" alt="Karen Cabrera | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/karencabrera581/">
-    <img align="left" alt="Karen Cabrera | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
+  </a> 
   <a href="mailto:kareeencabrera3@gmail.com">
     <img align="left" alt="Karen Cabrera | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <h6>kareeencabrera3@gmail.com<h6/>
   </a>
+  <a href="https://twitter.com/KareeenCabrera">
+    <img align="left" alt="Karen Cabrera | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+    <h6>https://twitter.com/KareeenCabrera<h6/>
+  </a>
+  <a href="https://www.instagram.com/karencabrera581/">
+    <img align="left" alt="Karen Cabrera | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <h6>https://www.instagram.com/karencabrera581/<h6/>
+  </a> &nbsp;&nbsp;
+
 
 
 <br><br>
