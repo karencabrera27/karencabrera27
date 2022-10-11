@@ -7,10 +7,10 @@
   <a href="https://www.linkedin.com/in/karen-cabrera-anyelen/">
     <img align="left" alt="Karen Cabrera | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatYug26">
+  <a href="https://twitter.com/KareeenCabrera">
     <img align="left" alt="Karen Cabrera | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/satyu.26/">
+  <a href="https://www.instagram.com/karencabrera581/">
     <img align="left" alt="Karen Cabrera | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:kareeencabrera3@gmail.com">
