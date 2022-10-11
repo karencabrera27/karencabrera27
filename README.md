@@ -1,6 +1,8 @@
-# Hi! I'm Karen 👋
+# Hi! My name is Karen 👋 
 
 ## Welcome to my profile 
+
+### I'm full stack developer 
 
 ### Technical Skills
 
