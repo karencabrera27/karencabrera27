@@ -1,8 +1,24 @@
-### Hi! I'm Karen 👋
+# Hi! I'm Karen 👋
 
-<br><br>
+### 
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+### Technical Skills
+
+
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+
+### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="22px">
 
   <a href="https://www.linkedin.com/in/karen-cabrera-anyelen/">
     <img align="left" alt="Karen Cabrera | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -13,7 +29,7 @@
   <a href="https://www.instagram.com/karencabrera581/">
     <img align="left" alt="Karen Cabrera | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto: kareeencabrera3@gmail.com">
+  <a href="mailto:kareeencabrera3@gmail.com">
     <img align="left" alt="Karen Cabrera | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
