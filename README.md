@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/karencabrera581/">
     <img align="left" alt="Karen Cabrera | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:kareeencabrera3@gmail.com">
+  <a href="mailto: kareeencabrera3@gmail.com">
     <img align="left" alt="Karen Cabrera | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
