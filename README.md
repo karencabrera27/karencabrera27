@@ -51,7 +51,6 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Neel2904&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
 <!--
 **karencabrera27/karencabrera27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
