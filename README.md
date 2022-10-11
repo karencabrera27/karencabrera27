@@ -2,7 +2,7 @@
 
 ## Welcome to my profile 
 
-### I'm full stack developer 
+#### I'm from Corrientes, Argentina. I'm full stack developer, fronted oriented. I like to investigate and learn new things to continue growing professionally.
 
 ### Technical Skills
 
