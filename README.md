@@ -39,6 +39,7 @@
 
   <a href="https://www.linkedin.com/in/karen-cabrera-anyelen/">
     <img align="left" alt="Karen Cabrera | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <h6>https://www.linkedin.com/in/karen-cabrera-anyelen/<h6/>
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/KareeenCabrera">
     <img align="left" alt="Karen Cabrera | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
