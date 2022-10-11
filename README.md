@@ -1,6 +1,6 @@
 # Hi! I'm Karen 👋
 
-Welcome to my profile 
+## Welcome to my profile 
 
 ### Technical Skills
 
