@@ -4,6 +4,7 @@
 
 #### I'm from Corrientes, Argentina. I'm full stack developer, fronted oriented. I like to investigate and learn new things to continue growing professionally.
 - I studied the software development technique at university and I recently graduated from HENRY's bootcamp.
+- My english level is B2 Upper Intermediate.
 - This is my english certificate: https://www.efset.org/cert/MFjEvs
 
 ### Technical Skills
