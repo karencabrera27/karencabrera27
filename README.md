@@ -3,7 +3,7 @@
 ## Welcome to my profile 
 
 #### I'm from Corrientes, Argentina. I'm full stack developer, fronted oriented. I like to investigate and learn new things to continue growing professionally.
-- I studied the software development technique at university and recently I graduated from HENRY's bootcamp.
+- I studied the software development technique at university and I recently graduated from HENRY's bootcamp.
 - This is my english certificate: https://www.efset.org/cert/MFjEvs
 
 ### Technical Skills
