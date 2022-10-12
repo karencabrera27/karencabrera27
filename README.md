@@ -8,7 +8,7 @@
 
 ### Technical Skills
 
-#### Front-End
+#### - Front-End
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -16,7 +16,7 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
 
-#### Back-End
+#### - Back-End
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/express-js.png"/></a>
 
@@ -26,14 +26,14 @@
 
 
 
-#### Tools
+#### - Tools
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/trello.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 
-#### Auth
+#### - Auth
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
 
 
