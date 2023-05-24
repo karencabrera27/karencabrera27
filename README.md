@@ -24,7 +24,7 @@
 #### Database
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/?size=512&id=tBBf3P8HL0vR&format=png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/?id=tBBf3P8HL0vR&format=png"/></a>
 
 
 #### - Tools
